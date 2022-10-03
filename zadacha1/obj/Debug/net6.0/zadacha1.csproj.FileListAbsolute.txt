@@ -1,0 +1,15 @@
+D:\C SHARP\seminar1\zadacha1\bin\Debug\net6.0\zadacha1.exe
+D:\C SHARP\seminar1\zadacha1\bin\Debug\net6.0\zadacha1.deps.json
+D:\C SHARP\seminar1\zadacha1\bin\Debug\net6.0\zadacha1.runtimeconfig.json
+D:\C SHARP\seminar1\zadacha1\bin\Debug\net6.0\zadacha1.dll
+D:\C SHARP\seminar1\zadacha1\bin\Debug\net6.0\zadacha1.pdb
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\zadacha1.csproj.AssemblyReference.cache
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\zadacha1.AssemblyInfoInputs.cache
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\zadacha1.AssemblyInfo.cs
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\zadacha1.csproj.CoreCompileInputs.cache
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\zadacha1.dll
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\refint\zadacha1.dll
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\zadacha1.pdb
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\zadacha1.genruntimeconfig.cache
+D:\C SHARP\seminar1\zadacha1\obj\Debug\net6.0\ref\zadacha1.dll
